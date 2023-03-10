@@ -1,10 +1,12 @@
 {
   "name": "defective-pixels",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Add defective pixels to web pages",
   "main": "index.js",
-  "type": "git",
-  "url": "https://github.com/sinanatra/defective-pixels.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinanatra/defective-pixels.git"
+  },
   "keywords": [
     "pixels",
     "glitch"
