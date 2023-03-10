@@ -1,4 +1,4 @@
-<img width="1431" alt="Screenshot 2023-03-10 at 18 01 04" src="https://user-images.githubusercontent.com/20107875/224377234-64257bbe-c212-4c74-850a-fb14ee3e4d52.png">
+<img width="1431" alt="Screenshot 2023-03-10 at 18 02 46" src="https://user-images.githubusercontent.com/20107875/224377588-3c168bad-1cca-4117-8355-aee7ef500bb2.png">
 
 Defective Pixels
 ----------
