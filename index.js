@@ -25,7 +25,8 @@ function generatepixels(numberOfPixels, containerId) {
     function placePixel(storedData) {
         if (storedData) {
             const pixel = document.createElement("div");
-            pixel.classList = "pixel " + storedData[2];
+            pixel.classList = "pixel ";
+            pixel.style.backgroundColor = storedData[2];
             pixel.style.position = "fixed";
             pixel.style.top = storedData[0] + "%";
             pixel.style.left = storedData[1] + "%";
