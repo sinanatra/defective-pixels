@@ -1,8 +1,10 @@
-<img width="1431" alt="Screenshot 2023-03-10 at 18 02 46" src="https://user-images.githubusercontent.com/20107875/224377588-3c168bad-1cca-4117-8355-aee7ef500bb2.png">
+![pixels](https://user-images.githubusercontent.com/20107875/224478468-ed87a6ff-a533-477a-ba44-2f3d62cde8e6.gif)
+
 
 Defective Pixels
 ----------
 A script that adds dead pixels to a webpage every time it's loaded and saves them on the local storage.
+This is an update to Domitille's [repo](https://github.com/domitille-f451/defective-pixels).
 
 
 1. Install the library with: `npm i defective-pixels`.
@@ -16,4 +18,13 @@ import generatepixels from "defective-pixels"
 
 ```
 generatepixels(100, "container_id")
+```
+
+4. It is advised to have the container at 100% of the viewport:
+
+```
+#container_id {
+  height: 100vh;
+  width: 100vw;
+}
 ```
