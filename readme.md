@@ -33,7 +33,7 @@ Here's an example of how you might use this module in an HTML file, by just clon
 ```
 <html>
   <head>
-    <title>Generate Pixels Example</title>
+    <title>Defective Pixels Example</title>
     <script src="index.js"></script>
   </head>
   <body>
