@@ -1,5 +1,4 @@
-![pixels](https://user-images.githubusercontent.com/20107875/224478468-ed87a6ff-a533-477a-ba44-2f3d62cde8e6.gif)
-
+<img style="object-fit:cover; height: 250px; width:100%" alt="pixels" src="https://user-images.githubusercontent.com/20107875/224478468-ed87a6ff-a533-477a-ba44-2f3d62cde8e6.gif">
 
 Defective Pixels
 ----------
