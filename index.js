@@ -12,8 +12,8 @@ function generatepixels(numberOfPixels, containerId) {
 
     for (let i = 0; i < numberOfPixels; i++) {
         const pixelData = [
-            Math.floor(Math.random() * 100) + 1,
-            Math.floor(Math.random() * 100) + 1,
+           Math.random() * 100 + 1,
+           Math.random() * 100 + 1,
             colors[Math.floor(Math.random() * colors.length)]
         ];
         data.push(pixelData);
