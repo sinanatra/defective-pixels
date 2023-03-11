@@ -1,20 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Defective Pixels</title>
-    <script src="./index.js"></script>
+    <title>Defective Pixels Example</title>
+    <script src="index.js"></script>
 </head>
 
 <body>
     <div id="container"></div>
+    <script>
+        const containerId = 'container';
+        const numberOfPixels = 100;
+        generatepixels(numberOfPixels, containerId);
+    </script>
 </body>
-
-<script>
-    generatepixels(100, "container")
-</script>
 
 </html>
