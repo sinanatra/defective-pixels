@@ -2,7 +2,8 @@ Defective Pixels
 ----------
 A script that adds dead pixels to a webpage every time it's loaded and saves them on the local storage.
 
-<img style="object-fit: cover; height: 220px; width: 100vw; max-width: 100%; display: inline-block;" alt="pixels" src="https://user-images.githubusercontent.com/20107875/224478468-ed87a6ff-a533-477a-ba44-2f3d62cde8e6.gif">
+![pixels](https://user-images.githubusercontent.com/20107875/224479331-c0dff8af-39b3-46fd-87d3-8081a7c3cbe4.gif)
+
 
 
 1. Install the library with: `npm i defective-pixels`.
