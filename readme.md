@@ -9,7 +9,7 @@ This is a Node.js module that generates a specified number of pixels with random
 To install this module in your Node.js project, you can use npm:
 
 ```sh
-npm install generatepixels
+npm install defective-pixels
 ```
 
 ## Usage
